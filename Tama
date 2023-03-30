@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tama</title>
+        <link rel="stylesheet" href="../new.css">
+    </head>
+    <body>
+        <h1>Tama</h1>
+        <h2> This is about Tama.</h2>
+        <img src="../images/Brush_Teeth_Steps.jpeg" alt="uh oh" width="550" height="475">
+        <h3>Who is Tama</h3>
+        
+        <ol>
+            <li>Tama's real name is Kang Woo Jin.</li>
+            <li>Tama like's music very much</li>
+            <li>Tama is handsome</li>
+            <li>Tama is cuter</li>
+            <li>Tama wears glasses</li>
+        </ol>
+        <h2>Additonal things about Tama</h2>
+        <p>First, Tama rhymes with hama</p>
+        <p>Second, Tama is a boy</p>
+        <p>Third, Tama is a student</p>
+        <p>Fourth, Tama goes to st. paulhanoi school.</p>
+        <p>Fifth, Tama's gmail is wo-j-n.----@stpaulhanoi.com</p>
+        <p> Sixth, Tama lives -----</p>
+        <p>Seventh, Tama's age is 12 or 13</p>
+        <p>Lastly, 타마 배스트</p>
+        
+        <p> </p>
+        <a href="https://www.youtube.com/watch?v=0iYx5q5CudI">hama youtoube</a>
+    </body>
+</html>
